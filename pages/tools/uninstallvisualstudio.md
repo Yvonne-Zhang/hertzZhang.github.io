@@ -11,8 +11,8 @@
 $ cd /Downloads
 
 3. 使脚本可执行，并通过 sudo 运行它：
-$ chmod +x ./xamarin_uninstall.sh
-$ sudo ./xamarin_uninstall.sh
+$ chmod +x ./uninstall-vsmac.sh
+$ sudo ./uninstall-vsmac.sh
 
 4. 最后，删除卸载脚本。
 ```
