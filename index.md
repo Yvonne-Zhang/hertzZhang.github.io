@@ -7,15 +7,15 @@
 假如您在文章中发现错误，你可以在文章中的最下方点击**提交错误**给我，我会第一时间修复它，不胜感激。
 
 ## Code
+
 ### HTML && CSS
 - [隐藏 input 为 number 属性时框内的上下操作按钮](https://hertzzhang.github.io/pages/html&&css/inputTypeNumber)
----
+
 ## Tool
 - [一次性卸载 Visual Studio for Mac](https://hertzzhang.github.io/pages/tool/uninstallvisualstudio)
----
+
 ## Others
 
----
 
 ### 支持
 
