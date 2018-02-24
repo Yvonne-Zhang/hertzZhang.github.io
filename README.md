@@ -6,7 +6,7 @@
 - Email：<zhanghelook@outlook.com>
 - 博客：[https://hertzzhang.github.io/](https://hertzzhang.github.io/)
 - 工作年限：5年
-- 基本信息：男 | 1992年出生 | 长春工程学院毕业 | 自考本科
+- 基本信息：男 | 1992年出生 | 长春工程学院毕业 | 自考本科
 
 自我评价
 -------
