@@ -17,4 +17,6 @@ $ sudo ./uninstall-vsmac.sh
 4. 最后，删除卸载脚本。
 ```
 
-如果文中哪里出现错误，欢迎在 [此处](https://github.com/hertzZhang/hertzZhang.github.io/edit/master/pages/tools/uninstallvisualstudio.md) 修改提交，我会第一时间合并，感谢支持。
+### 支持
+
+这篇文章有问题？ 点击 [提交错误](https://github.com/hertzZhang/hertzZhang.github.io/edit/master/pages/tools/uninstallvisualstudio.md) 给我，不胜感激。

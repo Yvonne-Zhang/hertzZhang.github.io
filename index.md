@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# 👏👏👏 欢迎来到我的博客
 
-You can use the [editor on GitHub](https://github.com/hertzZhang/hertzZhang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+博客里所有文章都是我平时工作的笔记。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+由于本人文笔不好、技术水平有限，所有文章仅供参考。
 
-### Markdown
+假如您在文章中发现错误，你可以在文章中的最下方点击**提交错误**给我，我会第一时间修复它，不胜感激。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Code
+### HTML && CSS
+- [隐藏 input 为 number 属性时框内的上下操作按钮](https://hertzzhang.github.io/pages/html&&css/inputTypeNumber)
+---
+## Tool
+- [一次性卸载 Visual Studio for Mac](https://hertzzhang.github.io/pages/tool/uninstallvisualstudio)
+---
+## Others
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+### 支持
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hertzZhang/hertzZhang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+这篇文章有问题？ 点击 [提交错误](https://github.com/hertzZhang/hertzZhang.github.io/edit/master/index.md) 给我，不胜感激。
