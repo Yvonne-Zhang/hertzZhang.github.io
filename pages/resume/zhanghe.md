@@ -12,11 +12,11 @@
 -------
 1. 5年前端工作经验。熟练掌握 [JavaScript](http://developer.mozilla.org/en/JavaScript) 语言并不断学习其新特性。在任职期间先后主要负责 [shijue.me | 视觉ME设计社区](http://shijue.me/)、[vcg.com | 视觉中国官网](https://www.vcg.com/)、[zhaoluobo.com | 找萝卜](http://zhaoluobo.com/) 的前端开发工作。PC端页面开发经验丰富。
 2. 熟悉 [Vue](https://vuejs.org/)、[React](https://reactjs.org/) 开源框架的使用，Vue 实战经验两年，有丰富的组件开发经验，有较深刻的认识以及实际项目经验；React 从2017年10月使用至今，目前正在为DMS系统写table高级组件。
-3. 熟悉 [W3C](https://www.w3.org/) 标准，熟悉页面架构和布局，对表现与数据分离、Web语义化等有深刻理解，熟练使用 [less](http://lesscss.org/)进行前端开发、了解 [bootstrap](https://getbootstrap.com/) 框架的使用。
+3. 熟悉 [W3C](https://www.w3.org/) 标准，熟悉页面架构和布局，对表现与数据分离、Web语义化等有深刻理解，熟练使用 [less](http://lesscss.org/) 进行前端开发、了解 [bootstrap](https://getbootstrap.com/) 框架的使用。
 
 求职意向
 -------
-- 期望职位：Web前端高级开发工程师
+- 期望职位：Web前端开发工程师
 - 到岗时间：一个月内
 - 期望薪资：税后23k
 - 工作性质：全职
@@ -42,7 +42,7 @@
 
 ### **前端开发工程师** 在 [视觉中国](https://www.vcg.com/) 任职
 *2013.03 - 2016.08*
-1. 是经理的得力助手，独自完成 [社区](http://shijue.me/) 很多工作，比如社区网站的大赛专题、网站维护和新功能页面的开发。
+1. 是经理的得力助手，独自完成 [社区](http://shijue.me/) 所有前端工作，如社区网站的大赛专题、网站维护和新功能页面的开发。
 2. 开发 [vcg.com | 视觉中国官网](https://www.vcg.com/) 的新版本；
 3. 优化网站性能，修复网站bug；
 
