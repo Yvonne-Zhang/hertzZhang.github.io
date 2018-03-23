@@ -7,11 +7,11 @@
 - 博客：[https://hertzzhang.github.io/](https://hertzzhang.github.io/)
 - 微信公众号：HertzZhang
 - 工作年限：5年
-- 基本信息：男 | 1992年出生 | 长春工程学院毕业 | 自考本科
+- 基本信息：男 / 1992年出生 / 长春工程学院毕业 / 自考本科
 
 我的优势
 -------
-1. 5年前端 `HTML5` 开发经验。熟练掌握 [JavaScript](http://developer.mozilla.org/en/JavaScript) 。在任职期间先后负责过 [shijue.me | 视觉ME设计社区](http://shijue.me/)、[vcg.com | 视觉中国官网](https://www.vcg.com/)、[zhaoluobo.com | 找萝卜](http://zhaoluobo.com/) 的前端开发工作。`HMTL` 和 `CSS` 有较为丰富的经验。
+1. 5年前端 `HTML5` 开发经验。熟练掌握 [JavaScript](http://developer.mozilla.org/en/JavaScript) 。在任职期间先后负责过 [shijue.me / 视觉ME设计社区](http://shijue.me/)、[vcg.com / 视觉中国官网](https://www.vcg.com/)、[zhaoluobo.com / 找萝卜](http://zhaoluobo.com/) 的前端开发工作。`HMTL` 和 `CSS` 有较为丰富的经验。
 2. 熟悉 [Vue](https://vuejs.org/)、[React](https://reactjs.org/) 开源框架的使用，两年多 Vue 实战经验，有丰富的组件开发经验；React 从2017年10月使用至今，目前正在为DMS系统写table高级组件。
 3. 熟悉 [W3C](https://www.w3.org/) 标准、页面架构和布局，熟练使用 [less](http://lesscss.org/) 进行前端开发、了解 [bootstrap](https://getbootstrap.com/) 框架的使用。
 
