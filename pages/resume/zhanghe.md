@@ -4,25 +4,26 @@
 ----
 - 电话/微信：[17600761257](tel://17600761257)
 - Email：<zhanghelook@outlook.com>
-- 博客：[https://hertzzhang.github.io](https://hertzzhang.github.io/)
 - 微信公众号：HertzZhang
 - 工作年限：5年
-- 基本信息：男 / 1992年出生 / 长春工程学院毕业 / 自考本科
-
-我的优势
--------
-1. 5年前端 `HTML5` 开发经验。熟练掌握 [JavaScript](http://developer.mozilla.org/en/JavaScript) 。在任职期间先后负责过 [shijue.me / 视觉ME设计社区](http://shijue.me/)、[vcg.com / 视觉中国官网](https://www.vcg.com/)、[zhaoluobo.com / 找萝卜](http://zhaoluobo.com/) 的前端开发工作。`HMTL` 和 `CSS` 有较为丰富的经验。
-2. 熟悉 [Vue](https://vuejs.org/)、[React](https://reactjs.org/) 开源框架的使用，两年多 Vue 实战经验，有丰富的组件开发经验；React 从2017年10月使用至今，目前正在为DMS系统写table高级组件。
-3. 熟悉 [W3C](https://www.w3.org/) 标准、页面架构和布局，熟练使用 [less](http://lesscss.org/) 进行前端开发、了解 [bootstrap](https://getbootstrap.com/) 框架的使用。
+- 基本信息：男 / 1992年出生 / 长春工程学院毕业 / 本科
 
 求职意向
 -------
 - 期望职位：高级前端开发工程师
 - 到岗时间：一个月内
-- 期望薪资：税后23k
+- 期望薪资：25k
 - 工作性质：全职
 - 工作状态：在职
 - 期望城市：北京
+
+我的优势
+-------
+1. 5年 前端开发经验：4年 PC 端页面开发，1年 微信 端页面开发。
+2. 参与 9个网站项目：1个企业站，3个商城，3个行业网站，1个社区，1个DMS。
+3. 熟练掌握 [JavaScript](http://developer.mozilla.org/en/JavaScript) ，`HMTL` 和 `CSS` 有丰富的工作经验。在任职期间先后负责过 [vcg.com / 视觉中国官网](https://www.vcg.com/)、[shijue.me / 视觉ME设计社区](http://shijue.me/)、[zhaoluobo.com / 找萝卜](http://zhaoluobo.com/) 等前端开发工作。
+4. 熟悉 [Vue](https://vuejs.org/)、[React](https://reactjs.org/) 开源框架的使用，2年+ `Vue` 实战经验，有丰富的组件开发经验；目前正在用 [React](https://reactjs.org/) 为DMS系统写table高级组件。
+5. 熟悉 [W3C](https://www.w3.org/) 标准、页面架构和布局，熟练使用 [less](http://lesscss.org/) 进行前端开发、了解 [bootstrap](https://getbootstrap.com/) 框架的使用。
 
 工作经历
 -------
@@ -42,7 +43,7 @@
 3. 优化网站性能，修复网站bug； -->
 
 *2013.03 - 2016.08*
-### **前端开发工程师** 在 [视觉中国](https://www.vcg.com/) 任职
+### **前端开发工程师** 在 [视觉中国集团](https://www.vcg.com/) 任职
 <!-- 1. 是经理的得力助手，独自完成 [社区](http://shijue.me/) 所有前端工作，如社区网站的大赛专题、网站维护和新功能页面的开发。
 2. 开发 [vcg.com | 视觉中国官网](https://www.vcg.com/) 的新版本；
 3. 优化网站性能，修复网站bug； -->
@@ -50,22 +51,40 @@
 项目经验
 -------
 ### **北京商云科技发展有限公司**
-### 经销商管理系统PC端
-*2017.11 - 至今*
+#### 经销商管理系统-PC端
+*2017.12 - 至今*
 - 主要技术框架：[React](https://reactjs.org/)，[Ant Design](https://ant.design/index-cn)
-- 职责描述：我在此项目负责高级Table组件开发的工作，基于 [Ant Design Table 表格](https://ant.design/components/table-cn/) 的组件封装的。克服了 `Table表格的功能模块由请求数据决定`、`table中td单元格自适应宽度下，flex布局中的text-overflow: ellipsis失效`、`less中 @keyframes name 在 :global 作用域下变为随机值` 等困难，
-
-
-
-
-
-
-分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。  
-我做了 XX 项目重构，用了 XX 技术方案，克服了 XX 的困难，最终让 XX 这类需求变更可以短平快的被消化，极速研发、快速上线、且数据采集也做到了标准化，研发成本大大降低，数据积累增长迅速，比如 XX ，最后在 XX 产品线中开始推广。
+- 职责描述：我在此项目负责高级Table组件开发的工作，基于 [Ant Design Table 表格](https://ant.design/components/table-cn/) 的组件封装的。克服了 `Table表格的功能模块由请求数据决定`、`table中td单元格自适应宽度下，flex布局中的text-overflow: ellipsis失效`、`less中 @keyframes name 在 :global 作用域下变为随机值` 等困难，最终让 Table表格 类的需求变更可以短平快的被消化，提高开发效率，快速上线，并且与后端传输的数据结构得到统一，研发成本大大降低。
+#### 微商城-移动端
+*2017.10 - 2017.12*
+#### 圈子移动社区-微信端
+*2017.9 - 2017.10*
+#### 店内点餐系统-移动微信端和商户Android端
+*2017.7 - 2017.9*
+- 主要技术框架：[Vue](https://vuejs.org/)，[Vux](https://doc.vux.li/zh-CN/)
+- 职责描述：我在此项目负责了店铺商品列表页面、代客点餐页面、支付流程页面开发工作，在 `手机兼容性方面` 成长快。这个项目中，我最困难的问题是 `微信端上传图片一系列问题`，我采取了分端各自执行各自代码的措施，最后安卓和ios都能完美上传图片了。这个项目中，我最自豪的是 `页面样式严格按照设计稿高度还原`，因为做出和设计稿一样的页面才是前端工程师该做的事情，在手机上的效果还是非常棒的，同事和领导对此很满意。
+### **聚力精彩（北京）信息技术有限公司**
+#### 找萝卜招聘平台-PC端
+*2016.8 - 2017.3*
+- 主要技术框架：[angular1.x](https://angularjs.org/)
+- 职责描述：我在此项目负责简历搜索和筛选及批量操作、简历详情页面等工作，基于 [angular1.x](https://angularjs.org/) 前端开源框架开发。在 `页面细节`，`列表筛选`，`批量操作`，`简历详情页面翻页` 方面做的出色。项目中，我最困难的问题是 `优化他人的代码` 和 `简历批量操作`，我采取了遇到难题自己尝试解决几次后及时寻求大牛思路的方法，以免耽误工期。项目中的挫折使我懂得了解题思路和同事们相互配合的重要性。
+#### 聚力精彩公司官网-PC端
+*2016.8*
+- 主要技术框架：[Vue](https://vuejs.org/)
+- 职责描述：我在此项目做了官网重构工作，用了 [Vue](https://vuejs.org/) 前端开源框架实现。克服了 `前后端分离`、`适应主流设备屏幕尺寸` 等困难，在如何使用 [Vue](https://vuejs.org/) 框架方面成长很快，节约了不少开发时间，打包后直接放入服务器即可使用。
+### **视觉中国集团**
+#### 视觉中国集团官网-PC端
+*2014.10 - 2016.8*
+- 主要技术框架：[Bootstrap](https://getbootstrap.com/)，[jQuery](https://jquery.com/)
+- 职责描述：我做了集团官网项目重构工作，用了 [Bootstrap](https://getbootstrap.com/) 和 [jQuery](https://jquery.com/) 框架进行开发。在 `项目局部列表异步加载`、`适应主流设备屏幕尺寸` 等方面做的出色。在这个项目中，我最自豪的是列表等高不等宽瀑布流样式的实现，因为这个实现方案是我自己做出来的，做出来的效果比设计稿还要漂亮一些，得到了领导和同事的称赞。
+#### 视觉ME设计师社区官网-PC端
+*2013.3 - 2014.10*
+- 主要技术框架：[Bootstrap](https://getbootstrap.com/)，[jQuery](https://jquery.com/)
+- 职责描述：我在此项目负责社区大赛页面开发和社区网站维护工作，用了 [Bootstrap](https://getbootstrap.com/) 和 [jQuery](https://jquery.com/) 框架进行开发。克服了 `大赛页面多且紧迫`、`适应主流设备屏幕尺寸`、`前端与后端套页面任务繁琐且费时` 等困难，最终让大赛页面极速开发，快速上线，并且后端套页面再也不用两个人看着了，大大降低时间成本。
 
 教育经历
 -------
-* [长春工程学院](http://www.ccit.edu.cn/) **软件技术专业** *2011.08 - 2013.08*
+* [长春工程学院](http://www.ccit.edu.cn/) **软件技术专业** *2011.08 - 2013.06*
 * [通辽实验中学](http://www.nmtlsy.com/) **理科** *2008.08 - 2011.06*
 
 证书
@@ -75,10 +94,8 @@
 
 兴趣爱好
 -------
-摄影，旅游，做饭，DIY小物件。
+用Raspberry Pi DIY小物件，摄影，旅游，做饭。
 
 致谢
 -------
 感谢您花时间阅读我的简历，期待能有机会与您共事。
-
-[回到博客首页](https://hertzzhang.github.io/)
