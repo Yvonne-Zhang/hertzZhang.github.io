@@ -1,8 +1,8 @@
 {
   "name": "ZhangHe's Date!",
   "short_name": "ZhangHe",
-  "start_url": "./?utm_source=web_app_manifest",
-  "display": "standalone",
+  "start_url": ".",
+  "display": "fullscreen",
   "background_color": "#ffffff",
   "description": "越努力，越幸运！",
   "icons": [

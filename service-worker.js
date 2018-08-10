@@ -11,7 +11,7 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox-sw.js");
+importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.2.0/workbox-sw.js");
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "4a755db62c79918e4adb1db65926fa70"
+    "revision": "85ffe8cc4124f5e6a6b894faf640ad48"
   },
   {
     "url": "android-icon-144x144.png",
@@ -92,28 +92,28 @@ self.__precacheManifest = [
     "revision": "7f16d9ae30cf0ae40903a9efa9ae9fb2"
   },
   {
-    "url": "assets/css/0.styles.7d547197.css",
-    "revision": "e84a44812783a911f1e19b45dd96057e"
+    "url": "assets/css/3.styles.0b24920e.css",
+    "revision": "f6a8a025fbad004e2eae71de71a745da"
   },
   {
     "url": "assets/img/search.83621669.svg",
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/2.285762ea.js",
-    "revision": "93afbd4e91ed17280e84a6930dc81b17"
+    "url": "assets/js/0.c79fb93d.js",
+    "revision": "9300ab8b1dcce2d495395630c8b19fc1"
   },
   {
-    "url": "assets/js/3.6dda9b1b.js",
-    "revision": "62743958309dab2c52ea9a790514ef3b"
+    "url": "assets/js/1.affdb83b.js",
+    "revision": "7db5f3ad9a37cb230f25f6dfe105381e"
   },
   {
-    "url": "assets/js/4.e089438d.js",
-    "revision": "3eb27eeba829fc8d98227420a5e2fbed"
+    "url": "assets/js/2.705c1f0f.js",
+    "revision": "b2a72f9d7c822fb5062ec625c73948bb"
   },
   {
-    "url": "assets/js/app.a5a2dad3.js",
-    "revision": "ac9c7a116b4f3f558aac4d3506c75c4e"
+    "url": "assets/js/app.8a810118.js",
+    "revision": "0b6e77e5599b4f417765f168406cb855"
   },
   {
     "url": "favicon-16x16.png",
@@ -129,7 +129,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "b95b2fc7d228ddb3734efc7a6ca55209"
+    "revision": "c59378094f28d9b0329d8f55353a7a26"
   },
   {
     "url": "ms-icon-144x144.png",
@@ -146,19 +146,15 @@ self.__precacheManifest = [
   {
     "url": "ms-icon-70x70.png",
     "revision": "1dadd9c202632e7b2185f8c088128785"
+  },
+  {
+    "url": "tutorials/index.html",
+    "revision": "f9f72179382a1284cb936ca54d06034d"
+  },
+  {
+    "url": "update.html",
+    "revision": "cf2d9d46c82eebbc33394d5129a926e3"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
-addEventListener('message', event => {
-  const replyPort = event.ports[0]
-  const message = event.data
-  if (replyPort && message && message.type === 'skip-waiting') {
-    event.waitUntil(
-      self.skipWaiting().then(
-        () => replyPort.postMessage({ error: null }),
-        error => replyPort.postMessage({ error })
-      )
-    )
-  }
-})
