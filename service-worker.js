@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.2.0/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "85ffe8cc4124f5e6a6b894faf640ad48"
+    "revision": "aa68b40e1cdb187a4a9e39301fffcf66"
   },
   {
     "url": "android-icon-144x144.png",
@@ -92,7 +92,7 @@ self.__precacheManifest = [
     "revision": "7f16d9ae30cf0ae40903a9efa9ae9fb2"
   },
   {
-    "url": "assets/css/3.styles.0b24920e.css",
+    "url": "assets/css/5.styles.1d6de0dd.css",
     "revision": "f6a8a025fbad004e2eae71de71a745da"
   },
   {
@@ -100,20 +100,28 @@ self.__precacheManifest = [
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/0.c79fb93d.js",
-    "revision": "9300ab8b1dcce2d495395630c8b19fc1"
+    "url": "assets/js/0.ec042e9f.js",
+    "revision": "138e4a3ce94f15d3da7d3d365300cac3"
   },
   {
-    "url": "assets/js/1.affdb83b.js",
-    "revision": "7db5f3ad9a37cb230f25f6dfe105381e"
+    "url": "assets/js/1.5fe89dfa.js",
+    "revision": "765e86e30eeaed17b5e4b430decb5c6d"
   },
   {
-    "url": "assets/js/2.705c1f0f.js",
-    "revision": "b2a72f9d7c822fb5062ec625c73948bb"
+    "url": "assets/js/2.aa11e088.js",
+    "revision": "2c08258af4f83ac7c6ca49ed64da5d8e"
   },
   {
-    "url": "assets/js/app.8a810118.js",
-    "revision": "0b6e77e5599b4f417765f168406cb855"
+    "url": "assets/js/3.405c4ecc.js",
+    "revision": "69e591f70ee92dc3d99b8e74462bfbb3"
+  },
+  {
+    "url": "assets/js/4.8f39b352.js",
+    "revision": "2c14856e6140ae2023bbe3c5e76f8869"
+  },
+  {
+    "url": "assets/js/app.e1de0447.js",
+    "revision": "26cd2ff384f1156f6a81503f0f1a0949"
   },
   {
     "url": "favicon-16x16.png",
@@ -129,7 +137,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "c59378094f28d9b0329d8f55353a7a26"
+    "revision": "6d69c2d2b7af5b9c6ff414d2e55f3d7a"
+  },
+  {
+    "url": "laboratory/index.html",
+    "revision": "320e11e7f8ac1048997bf8c2d438e527"
   },
   {
     "url": "ms-icon-144x144.png",
@@ -148,12 +160,16 @@ self.__precacheManifest = [
     "revision": "1dadd9c202632e7b2185f8c088128785"
   },
   {
+    "url": "trivia/index.html",
+    "revision": "67daabffac52cd4c31541f6aa38347ef"
+  },
+  {
     "url": "tutorials/index.html",
-    "revision": "f9f72179382a1284cb936ca54d06034d"
+    "revision": "7c661151b037b8e948459fc39c91f695"
   },
   {
     "url": "update.html",
-    "revision": "cf2d9d46c82eebbc33394d5129a926e3"
+    "revision": "97bebc47607e488664c9efece2aa8500"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
