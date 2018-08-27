@@ -2,8 +2,9 @@
   "name": "ZhangHe's Date!",
   "short_name": "ZhangHe",
   "start_url": ".",
-  "display": "fullscreen",
+  "display": "standalone",
   "background_color": "#ffffff",
+  "theme_color": "#ffffff",
   "description": "Visual China Group Front End Engineer. Like cooking, photography, travel.",
   "icons": [
     {
