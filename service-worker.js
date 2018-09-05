@@ -21,75 +21,75 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.2.0/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "e25f47c265f3ecb8f0ffdabe20e47848"
+    "revision": "877b2a85b4ed5e61460f1a7cfbdc8eef"
   },
   {
     "url": "android-icon-144x144.png",
-    "revision": "cd7021a5d895cfa1a021e8bed7500e5d"
+    "revision": "4066dfc8a0634ad55310eff40b13a906"
   },
   {
     "url": "android-icon-192x192.png",
-    "revision": "d88f83792f7dc62794f6f31f96a0d3aa"
+    "revision": "552f0052f04eaee64511df49eb2dfdbb"
   },
   {
     "url": "android-icon-36x36.png",
-    "revision": "56065f5df1889429cbc6fbbb149eaab5"
+    "revision": "81679f25f8594fa5f51121c549f9a37a"
   },
   {
     "url": "android-icon-48x48.png",
-    "revision": "c66f03eca978a74cccb308e5815fd7ed"
+    "revision": "6c04f13e499cc902f6a658e1e74459da"
   },
   {
     "url": "android-icon-72x72.png",
-    "revision": "6ecf29de4f2ac41d88d67534e90eb1bf"
+    "revision": "aec04093b6dbfd0af3538e598708b1b0"
   },
   {
     "url": "android-icon-96x96.png",
-    "revision": "02498cce30e3f3502d930796e6eeb107"
+    "revision": "f487894b2459e900b6f098bbc8562aef"
   },
   {
     "url": "apple-icon-114x114.png",
-    "revision": "3cc1434840dd8669470e80082edd8920"
+    "revision": "0d808e97f458924c0671b126486769df"
   },
   {
     "url": "apple-icon-120x120.png",
-    "revision": "1ef0353b09a4345875fb44d278b08821"
+    "revision": "a09ad1bddea67e983d6e4339b2aab0fe"
   },
   {
     "url": "apple-icon-144x144.png",
-    "revision": "cd7021a5d895cfa1a021e8bed7500e5d"
+    "revision": "4066dfc8a0634ad55310eff40b13a906"
   },
   {
     "url": "apple-icon-152x152.png",
-    "revision": "dc5cb93325113ba0a9adbc592d8c52d8"
+    "revision": "45cc834ac50178ad47e3daffd5c90c5b"
   },
   {
     "url": "apple-icon-180x180.png",
-    "revision": "5d5f046cbab60646af697094098bfde8"
+    "revision": "4fae5489a316cc136aaf2766a3b76124"
   },
   {
     "url": "apple-icon-57x57.png",
-    "revision": "2825311d0bdd6ba38eac425c2c635515"
+    "revision": "7704f36fd08a272b03d193fc22a2f825"
   },
   {
     "url": "apple-icon-60x60.png",
-    "revision": "a4711c67f4c6abaaf39ac4e696b7b480"
+    "revision": "66b17fa9ad0c274a08d0326f950f5a7b"
   },
   {
     "url": "apple-icon-72x72.png",
-    "revision": "6ecf29de4f2ac41d88d67534e90eb1bf"
+    "revision": "aec04093b6dbfd0af3538e598708b1b0"
   },
   {
     "url": "apple-icon-76x76.png",
-    "revision": "11ca2c87ef2f8e067198efacad538dd4"
+    "revision": "7e7c995bf0e74380111f2b20d896c626"
   },
   {
     "url": "apple-icon-precomposed.png",
-    "revision": "7f16d9ae30cf0ae40903a9efa9ae9fb2"
+    "revision": "ff991dd73d7a465aaa16e3a3e0e20394"
   },
   {
     "url": "apple-icon.png",
-    "revision": "7f16d9ae30cf0ae40903a9efa9ae9fb2"
+    "revision": "ff991dd73d7a465aaa16e3a3e0e20394"
   },
   {
     "url": "assets/css/7.styles.c055e3d3.css",
@@ -133,59 +133,63 @@ self.__precacheManifest = [
   },
   {
     "url": "experience/index.html",
-    "revision": "c477226e34bbc75521f9f0ba49b8187b"
+    "revision": "ee165af14d0a6926161dee394f493917"
   },
   {
     "url": "experience/window-install-gitflow.html",
-    "revision": "939b9ad3324689d1404046066213e5ac"
+    "revision": "9c49842aed5cfaeef1d5d2f6f580da53"
   },
   {
     "url": "favicon-16x16.png",
-    "revision": "e765729a8f90c6e315d199e10734372a"
+    "revision": "0dfcbe7e5375fc2894e2304c96ac18dc"
   },
   {
     "url": "favicon-32x32.png",
-    "revision": "83d126b2562ff65707aa0c7af913aea3"
+    "revision": "545e2048162f111b05ad90f34375d916"
+  },
+  {
+    "url": "favicon-960x960.png",
+    "revision": "77415f3b9917aa107c176994d77f6e20"
   },
   {
     "url": "favicon-96x96.png",
-    "revision": "02498cce30e3f3502d930796e6eeb107"
+    "revision": "f487894b2459e900b6f098bbc8562aef"
   },
   {
     "url": "index.html",
-    "revision": "d202dc16639ca1a0f1300c7c16092f6b"
+    "revision": "a5a2d295ac6956bb42f3cdf665e1973c"
   },
   {
     "url": "laboratory/index.html",
-    "revision": "b8d588a5376e732a40f15a4efd3db9c5"
+    "revision": "f14cd211e3b9da3396896cf59b1b2aee"
   },
   {
     "url": "list.html",
-    "revision": "2a1f3fff6b40f41dff2d01f7d28829c8"
+    "revision": "a921851a089c0cb9ae86d48719246e30"
   },
   {
     "url": "ms-icon-144x144.png",
-    "revision": "cd7021a5d895cfa1a021e8bed7500e5d"
+    "revision": "4066dfc8a0634ad55310eff40b13a906"
   },
   {
     "url": "ms-icon-150x150.png",
-    "revision": "710cbeaf0366e8f5a8158537a1caeeae"
+    "revision": "5160320004a509eb326a4c23a0feec11"
   },
   {
     "url": "ms-icon-310x310.png",
-    "revision": "dcfa383683b42b9896860769e826da46"
+    "revision": "6f50a8657ee3b02a7abe2ce02e053e0f"
   },
   {
     "url": "ms-icon-70x70.png",
-    "revision": "1dadd9c202632e7b2185f8c088128785"
+    "revision": "78e01bb9fed3378630869bdb4eb72bf7"
   },
   {
     "url": "trivia/index.html",
-    "revision": "be70eb6f31e313a356a430060026a293"
+    "revision": "3a7f42750e42fa8b235b0c8a775318d0"
   },
   {
     "url": "tutorials/index.html",
-    "revision": "3763312c52987a47b48ac18631dc806c"
+    "revision": "f4b6cab2841c2dc9258428f63d457aae"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
