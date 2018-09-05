@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.2.0/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "95f9f337c5c24de0d02f5aff37afe981"
+    "revision": "e25f47c265f3ecb8f0ffdabe20e47848"
   },
   {
     "url": "android-icon-144x144.png",
@@ -92,7 +92,7 @@ self.__precacheManifest = [
     "revision": "7f16d9ae30cf0ae40903a9efa9ae9fb2"
   },
   {
-    "url": "assets/css/6.styles.3ef2e184.css",
+    "url": "assets/css/7.styles.c055e3d3.css",
     "revision": "83254265ef551a95a666797ffadc2fa3"
   },
   {
@@ -100,36 +100,44 @@ self.__precacheManifest = [
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/0.b3be75ea.js",
-    "revision": "603cb8b5c15345c4da08205fdda35e52"
+    "url": "assets/js/0.a3c18be7.js",
+    "revision": "41a7a28055ce8c4756a04922f9a7b76b"
   },
   {
     "url": "assets/js/1.ff6b7a08.js",
     "revision": "cd0d1382a83c50257cb73c3a00bac7c1"
   },
   {
-    "url": "assets/js/2.d42f36ea.js",
-    "revision": "40ef7c10df8763b38ac99f3c5bfe315b"
+    "url": "assets/js/2.05821edc.js",
+    "revision": "f25560fb14bd96dc9c9d679d9314288e"
   },
   {
-    "url": "assets/js/3.8bb81153.js",
-    "revision": "3d51734674b28d8cedffe86d78e69be5"
+    "url": "assets/js/3.1b7fe7de.js",
+    "revision": "2cf8986f9c3effc38fd134dccd6f9ac4"
   },
   {
-    "url": "assets/js/4.d483e114.js",
-    "revision": "7f9e2527bc526f5b514bb759cb8690d0"
+    "url": "assets/js/4.f05470b5.js",
+    "revision": "dd79d4472ade2d9f3ac673c4aae11f0c"
   },
   {
-    "url": "assets/js/5.4bb83d01.js",
-    "revision": "eab6a266b7f01780815e4821b5cfd154"
+    "url": "assets/js/5.01dc49ad.js",
+    "revision": "384e642f92640a00dd97aee5165050d1"
   },
   {
-    "url": "assets/js/app.af1735d4.js",
-    "revision": "75859376b342a28953b108fabf1aabd0"
+    "url": "assets/js/6.ce61625c.js",
+    "revision": "02d909446c68f5af4dc2874ec1962951"
+  },
+  {
+    "url": "assets/js/app.2bcbce80.js",
+    "revision": "12855ca9ba0d9875d8376292a4182092"
   },
   {
     "url": "experience/index.html",
-    "revision": "07b05189d93be3246e2751ce29030d5e"
+    "revision": "c477226e34bbc75521f9f0ba49b8187b"
+  },
+  {
+    "url": "experience/window-install-gitflow.html",
+    "revision": "939b9ad3324689d1404046066213e5ac"
   },
   {
     "url": "favicon-16x16.png",
@@ -145,15 +153,15 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "5f5d492609ef681c31b382e2c0aab631"
+    "revision": "d202dc16639ca1a0f1300c7c16092f6b"
   },
   {
     "url": "laboratory/index.html",
-    "revision": "bf4455856f97594255492449835245bd"
+    "revision": "b8d588a5376e732a40f15a4efd3db9c5"
   },
   {
     "url": "list.html",
-    "revision": "8377717fa96e674e56b0750046ac88bd"
+    "revision": "2a1f3fff6b40f41dff2d01f7d28829c8"
   },
   {
     "url": "ms-icon-144x144.png",
@@ -173,11 +181,11 @@ self.__precacheManifest = [
   },
   {
     "url": "trivia/index.html",
-    "revision": "be146da4ae27d03e2d433237f3fe10c5"
+    "revision": "be70eb6f31e313a356a430060026a293"
   },
   {
     "url": "tutorials/index.html",
-    "revision": "b3c6c2dedf9efc5f3b915239fc7bac6a"
+    "revision": "3763312c52987a47b48ac18631dc806c"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
