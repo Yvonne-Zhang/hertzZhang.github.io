@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.2.0/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "877b2a85b4ed5e61460f1a7cfbdc8eef"
+    "revision": "4711deaa81fdf6510ea050a60a1a00fe"
   },
   {
     "url": "android-icon-144x144.png",
